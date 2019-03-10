@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Hello world!
-categories: Miscellaneous
+title: IE11 Embedded PDF onload event
+categories: IE11, pdf, adobe
 ---
 
-Hey guys, this is my first post after setting up my blog with [Jekyll](https://jekyllrb.com). I will update my blog more than often from now onwards.
+If your'e looking at some hideous JavaScript and wonder "why would anyone do this ?"
+9/10 cases its because they didnt know any better but sometimes, its just an IE work-around for something trivial... this one is no different
