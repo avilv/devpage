@@ -338,7 +338,7 @@ if (content.locals) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\develop\xbrl-analyitcs-poc\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\develop\XBRLAnalyticsPOC\XBRLAnalyticsPOC\src\styles.css */"./src/styles.css");
 
 
 /***/ })
